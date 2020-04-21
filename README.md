@@ -11,7 +11,7 @@ Install via composer by adding the following to your composer.json:
 ```json
     ...
     "require": {
-        "marvinosswald/laravel-tinify": "~1.0"
+        "ucraft-com/laravel-tinify": "~1.0"
     }
     ...
 ```

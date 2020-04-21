@@ -1,5 +1,5 @@
 {
-  "name": "marvinosswald/laravel-tinify",
+  "name": "ucraft-com/laravel-tinify",
   "type": "library",
   "description": "Laravel Facade for tinify API",
   "keywords": ["tinify","tinypng"],
@@ -17,7 +17,7 @@
   },
   "autoload": {
     "psr-4": {
-      "marvinosswald\\LaravelTinify\\": "src"
+      "ucraft-com\\LaravelTinify\\": "src"
     }
   },
   "minimum-stability": "stable"
