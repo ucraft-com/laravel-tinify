@@ -1,6 +1,6 @@
 <?php 
 
-namespace marvinosswald\LaravelTinify;
+namespace UcraftCom\LaravelTinify;
 
 use Illuminate\Support\ServiceProvider;
 use Tinify\Tinify;
@@ -31,7 +31,7 @@ class LaravelTinifyServiceProvider extends ServiceProvider {
 	public function register()
 	{
 
-		$this->app->bind('tinify', 'marvinosswald\LaravelTinify\Services\TinifyService');
+		$this->app->bind('tinify', 'UcraftCom\LaravelTinify\Services\TinifyService');
 
 	}
 

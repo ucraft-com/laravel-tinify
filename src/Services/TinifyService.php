@@ -1,6 +1,6 @@
 <?php
 
-namespace marvinosswald\LaravelTinify\Services;
+namespace UcraftCom\LaravelTinify\Services;
 use Tinify\Source;
 use Tinify\Tinify;
 class TinifyService {

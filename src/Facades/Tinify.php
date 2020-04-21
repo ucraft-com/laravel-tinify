@@ -1,5 +1,5 @@
 <?php 
-namespace marvinosswald\LaravelTinify\Facades;
+namespace UcraftCom\LaravelTinify\Facades;
 use Illuminate\Support\Facades\Facade;
 class Tinify extends Facade {
 	protected static function getFacadeAccessor(){

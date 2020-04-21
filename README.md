@@ -20,7 +20,7 @@ Add service provider to ```config/app.php```:
 
 ```php
     ...
-    marvinosswald\LaravelTinify\LaravelTinifyServiceProvider::class
+    UcraftCom\LaravelTinify\LaravelTinifyServiceProvider::class
     ...
 ```
 
@@ -28,7 +28,7 @@ Add alias to ```config/app.php```:
 
 ```php
     ...
-    'Tinify' => marvinosswald\LaravelTinify\Facades\Tinify::class
+    'Tinify' => UcraftCom\LaravelTinify\Facades\Tinify::class
     ...
 ```
 
